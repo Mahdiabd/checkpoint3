@@ -1,0 +1,23 @@
+
+div{
+  display: inline-block;
+  width: 100%
+}
+span{
+ text-align: justify; 
+  padding: 0; margin-left: 10px; margin-block-start: 10px;
+  font-family: 'Courier New', Courier, monospace; margin-bottom: 5px;
+  display: inline-block; width:23%;vertical-align: top; height: 250px; text-align: center;}
+
+
+h1{
+  font-weight: bolder;
+  text-align: center
+}
+img{
+  height: 300px;
+  width: 250px;
+}
+body{
+  background-image: url('../src/juv.jpg') ;
+color: goldenrod;}
